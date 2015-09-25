@@ -1,0 +1,28 @@
+{
+  "name": "thatsall",
+  "version": "0.0.1",
+  "homepage": "https://github.com/metal3d/thatsall.js",
+  "repository" : {
+    "type": "git",
+    "url" : "git@github.com:metal3d/thatsall.js.git"
+  },
+  "authors": [
+    "Patrice FERLET <metal3d@gmail.com>"
+  ],
+  "description": "A tiny javascript library",
+  "main": "thatsall.js",
+  "moduleType": [],
+  "keywords": [
+    "mini",
+    "tiny",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
